@@ -1,0 +1,1 @@
+This repository holds the code and data to generate plots for a horserace-style comparison of different neural network architectures and CPU/GPU configurations for indoor scene classification.
